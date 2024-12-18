@@ -1,2 +1,14 @@
-# sohaila
-Customer Churn Analysis Dashboard
+
+#Customer Churn Analysis Dashboard
+This repository contains a Power BI dashboard and an accompanying report for analyzing customer churn trends.
+
+Contents
+churn_report.docx: Detailed explanation of the data analysis process and key findings.
+dashboard.pbix: file to open in power BI of the final Power BI dashboard visualizing churn insights.
+Key Insights
+Month-to-month contracts have the highest churn rate.
+Electronic Check is the payment method most associated with churn.
+Retained customers have significantly longer average tenure.
+Tools Used
+Power BI for visualization
+
